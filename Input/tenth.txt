@@ -1,6 +1,6 @@
 
 
-DATE:- 15/07/2020    C.B.S.E. - SECONDARY SCHOOL EXAMINATION (MAIN)-2020      REGION: CHANDIGARH         PAGE:-       1
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       1
                                     ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,59 +9,58 @@ NO      L X                                                     SUB CD SUB CD SU
                                                                 MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SCHOOL : - 24944   K V BHADARWAH DISTT DODA J&K                    
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
 
-13217099   F AQSA TANVEER                                       184    002    241    086    087                   PASS          
-                                                                077 B2 068 C1 033 D2 034 D2 045 D2              
-13217100   F EISHITA PARIHAR                                    184    002    241    086    087                   PASS          
-                                                                074 C1 085 A2 066 B2 044 C2 063 C2              
-13217101   F IBRA ARSHAD                                        184    002    241    086    087                   PASS          
-                                                                075 C1 081 B1 054 C1 055 C1 060 C2              
+28133056   M TELUGU KASI HEMANTH                                184    002    241    086    087    417            PASS                      
+                                                                063 C2 063 C2 057 B1 062 B2 050 D1 070 D2       
+28133057   M AKSHAY VARDHAN BIJILI                              184    002    041    086    087    417            PASS                      
+                                                                074 B2 081 B1 075 B1 085 A2 078 B2 090 B2       
+28133058   F ASHIN PATAN                                        184    002    241    086    087    417            PASS                      
+                                                                060 C2 047 D2 056 B1 055 C1 070 C1 083 C1       
+28133059   F PILLUTLA CHANDANA                                  184    002    041    086    087    417            PASS                      
+                                                                080 B1 084 B1 092 A1 085 A2 085 B1 098 A1       
+28133060   M KOTA GNANESWAR                                     184    002    041    086    087    417            PASS                      
+                                                                079 B1 083 B1 083 A2 082 A2 079 B2 093 B1       
+28133061   F ANISHA DHANARAJ GOKHALE                            184    002    041    086    087    417            PASS                      
+                                                                091 A1 071 C1 050 C2 071 B1 064 C2 085 C1       
+28133062   M HARI KOUSHIK                                       184    002    041    086    087    417            PASS                      
+                                                                077 B2 086 A2 087 A2 094 A1 085 B1 086 C1       
+28133063   F K LATHIKA                                          184    002    041    086    087    417            PASS                      
+                                                                082 B1 054 D1 064 B2 062 B2 077 B2 070 D2       
+28133064   F BANAVATH VARSHINI                                  184    002    041    086    087    417            PASS                      
+                                                                080 B1 081 B1 063 C1 071 B1 069 C1 082 C2       
 
-13217102   F KANAK SHARMA                                       184    002    241    086    087                   PASS          
-                                                                086 A2 090 A2 059 C1 063 B2 071 C1              
-13217103   F KOMA DEVI                                          184    002    241    086    087                   PASS          
-                                                                087 A2 090 A2 045 C2 045 C2 068 C1              
-13217104   F MANSI PARIHAR                                      184    002    241    086    087                   PASS          
-                                                                064 C2 071 C1 035 D2 033 D2 046 D2              
-13217105   F MUQADAS ASHRAF                                     184    002    241    086    087                   PASS          
-                                                                077 B2 068 C1 042 D1 046 C2 056 D1              
-13217106   F PAIYAL SHARMA                                      184    002    241    086    087                   PASS          
-                                                                080 B2 096 A1 072 B1 062 B2 067 C1              
-13217107   F PRAKRATI KOTWAL                                    184    002    241    086    087                   PASS          
-                                                                087 A2 086 A2 049 C2 047 C2 063 C2              
-13217108   F RIYA KOTWAL                                        184    002    241    086    087                   PASS          
-                                                                065 C2 075 B2 041 D1 033 D2 046 D2              
-13217109   F SALONI                                             184    002    241    086    087                   PASS          
-                                                                069 C1 086 A2 039 D1 037 D1 059 C2              
-13217110   F SHANAKSHI DEVI                                     184    002    241    086    087                   PASS          
-                                                                088 A2 090 A2 048 C2 058 B2 079 B2              
-13217111   F SUHANI KOTWAL                                      184    002    241    086    087                   PASS          
-                                                                077 B2 084 B1 046 C2 055 C1 065 C2              
+28133065   F DADI SAHITI                                        184    002    041    086    087    417            PASS                      
+                                                                071 C1 074 C1 061 C1 072 B1 085 B1 094 A2       
+28133066   M PUNJALA DEEKSHITH GOUD                             184    002    041    086    087    417            PASS                      
+                                                                078 B1 063 C2 063 C1 059 C1 082 B1 096 A2       
+28133067   F GUNDE KOYALKAR VAISHNAVI PRIYA                     184    002    041    086    087    417            PASS                      
+                                                                089 A1 091 A1 079 B1 081 A2 083 B1 092 B1       
+28133068   F LINGALA MANASVI                                    184    002    041    086    087    417            PASS                      
+                                                                097 A1 097 A1 096 A1 097 A1 100 A1 100 A1       
+28133069   M SAI KIRAN APPALA                                   184    002    041    086    087    417            PASS                      
+                                                                086 A2 078 B2 073 B1 068 B2 079 B2 087 B2       
+28133070   F MUPPAVARAM HARANI                                  184    002    041    086    087    417            PASS                      
+                                                                090 A1 061 D1 045 D1 059 C1 064 C2 083 C1       
+28133071   M PANEM SHRAVAN                                      184    002    041    086    087    417            PASS                      
+                                                                072 B2 071 C1 059 C1 051 C2 071 C1 080 C2       
+28133072   F S VAISHNAVI                                        184    002    041    086    087    417            PASS                      
+                                                                078 B1 081 B1 066 B2 052 C2 067 C1 084 C1       
+28133073   F ERA SINHA                                          184    002    041    086    087    417            PASS                      
+                                                                095 A1 086 A2 072 B2 070 B2 071 C1 092 B1       
+28133074   F VEERAREDDY NITHILA REDDY                           184    002    041    086    087    417            PASS                      
+                                                                087 A2 081 B1 053 C2 058 C1 067 C1 087 B2       
 
-13217112   F SHAVITA CHARAK                                     184    002    241    086    087                   PASS          
-                                                                054 D1 073 C1 035 D2 033 D2 046 D2              
-13217113   M AAREZ AHMAD KHATEEB                                184    002    041    086    087                   PASS          
-                                                                083 B1 085 A2 075 B1 067 B1 071 C1              
-13217114   M ABHIPREET RATHORE                                  184    002    241    086    087                   PASS          
-                                                                050 D1 062 C2 043 C2 036 D1 048 D2              
-13217115   M ADITYA PARIHAR                                     184    002    241    086    087                   PASS          
-                                                                051 D1 060 D1 036 D1 033 D2 052 D1              
-13217116   M AHETSHAM NASIR                                     184    002    041    086    087                   PASS          
-                                                                074 C1 075 B2 063 B2 064 B2 059 C2              
-13217117   M AKSHAY KUMAR                                       184    002    241    086    087                   PASS          
-                                                                072 C1 086 A2 040 D1 045 C2 060 C2              
-13217118   M ANISH KUMAR MANHAS                                 184    002    241    086    087                   PASS          
-                                                                065 C2 086 A2 055 C1 052 C1 057 D1              
-13217119   M ANSH JAMWAL                                        184    002    241    086    087                   PASS          
-                                                                069 C1 076 B2 050 C2 049 C1 056 D1              
-13217120   M ANSH KOTWAL                                        184    002    241    086    087                   PASS          
-                                                                083 B1 094 A1 054 C1 061 B2 066 C2              
-13217121   M ARJUN GIRI                                         184    002    241    086    087                   PASS          
-                                                                053 D1 061 C2 036 D1 037 D1 048 D2              
-
+28133075   F BHAGYA LAXMI SWAMI                                 184    002    041    086    087    417            PASS                      
+                                                                084 A2 092 A1 057 C1 076 B1 086 B1 093 B1       
+28133076   F SURISETTI BHAGYASRI                                184    002    241    086    087    417            PASS                      
+                                                                071 C1 073 C1 041 C2 044 D1 060 C2 086 C1       
+28133077   M EEGA THARUN GUPTHA                                 184    002    041    086    087    417            PASS                      
+                                                                068 C1 073 C1 045 D1 054 C1 058 C2 071 D1       
+28133078   F MD IMRANA                                          184    002    041    086    087    417            PASS                      
+                                                                073 B2 057 D1 040 D1 043 D1 066 C1 077 D1       
 
-DATE:- 15/07/2020    C.B.S.E. - SECONDARY SCHOOL EXAMINATION (MAIN)-2020      REGION: CHANDIGARH         PAGE:-       2
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       2
                                                 ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,45 +69,501 @@ NO      L X                                                     SUB CD SUB CD SU
                                                                 MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SCHOOL : - 24944   K V BHADARWAH DISTT DODA J&K                    
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
 
-13217122   M ASHUTOSH SHARMA                                    184    002    041    086    087                   PASS          
-                                                                086 A2 086 A2 071 B1 054 C1 076 B2              
-13217123   M AYUSH MANHAS                                       184    002    241    086    087                   PASS          
-                                                                078 B2 085 A2 057 C1 057 B2 065 C2              
-13217124   M AYUSH SHAN                                         184    002    041    086    087                   PASS          
-                                                                081 B1 086 A2 074 B1 080 A2 067 C1              
-13217125   M ALEEM AHMED                                        184    002    241    086    087                   PASS          
-                                                                081 B1 070 C1 042 D1 044 C2 064 C2              
-13217126   M GORAV SINGH MANHAS                                 184    002    041    086    087                   PASS          
-                                                                081 B1 082 B1 056 C1 050 C1 060 C2              
-13217127   M ISHAN SHARMA                                       184    002    241    086    087                   PASS          
-                                                                075 C1 076 B2 041 D1 050 C1 060 C2              
-13217128   M MANSHU SINGH THAKUR                                184    002    041    086    087                   PASS          
-                                                                084 B1 084 B1 058 C1 056 C1 086 B1              
-13217129   M MUSAIB BIN FAROOQ                                  184    002    041    086    087                   PASS          
-                                                                090 A2 084 B1 059 C1 064 B2 069 C1              
-13217130   M MANDEEP SINGH                                      184    002    041    086    087                   PASS          
-                                                                086 A2 082 B1 061 B2 057 B2 068 C1              
-13217131   M NITTEN KUMAR                                       184    002    041    086    087                   PASS          
-                                                                086 A2 082 B1 069 B2 067 B1 058 D1              
+28133079   M C SHUBAN                                           184    002    041    086    087    417            PASS                      
+                                                                079 B1 075 B2 057 C1 070 B2 072 C1 088 B2       
+28133080   F DUNNA RAMANI                                       184    002    041    086    087    417            PASS                      
+                                                                070 C1 077 B2 069 B2 071 B1 074 B2 085 C1       
+28133081   F ANSHU DHARA SETHY                                  184    002    041    086    087    417            PASS                      
+                                                                089 A1 090 A1 090 A2 085 A2 084 B1 092 B1       
+28133082   F VADITYA SWARNIKA                                   184    002    041    086    087    417            PASS                      
+                                                                083 B1 082 B1 061 C1 081 A2 079 B2 092 B1       
+28133083   F DASIREDDY TANUSHREE REDDY                          184    002    041    086    087    417            PASS                      
+                                                                097 A1 090 A1 075 B1 082 A2 093 A1 093 B1       
+28133084   F P MEGHA RAO                                        184    002    241    086    087    417            PASS                      
+                                                                087 A2 047 D2 041 C2 041 D1 053 D1 084 C1       
 
-13217132   M OM KUSH JARAL                                      184    002    241    086    087                   PASS          
-                                                                072 C1 086 A2 044 C2 048 C2 064 C2              
-13217133   M RAVISH GUPTA                                       184    002    241    086    087                   PASS          
-                                                                082 B1 081 B1 042 D1 054 C1 062 C2              
-13217134   M RONEET SINGH JARAL                                 184    002    241    086    087                   PASS          
-                                                                080 B2 081 B1 052 C1 043 C2 067 C1              
-13217135   M SHIVANSH KOTWAL                                    184    002    041    086    087                   PASS          
-                                                                068 C2 058 D1 052 C1 040 D1 051 D1              
-13217136   M SHAZ ALI                                           184    002    041    086    087                   PASS          
-                                                                096 A1 090 A2 055 C1 078 A2 093 A2              
-13217137   M VANSH CHANDEL                                      184    002    041    086    087                   PASS          
-                                                                087 A2 085 A2 064 B2 070 B1 078 B2              
-13217138   M VARUN PRATAP SINGH                                 184    002    041    086    087                   PASS          
-                                                                082 B1 094 A1 070 B1 073 B1 093 A2              
-13217139   M MOHD IDREESS                                       184    002    241    086    087                   PASS          
-                                                                083 B1 084 B1 043 C2 052 C1 072 C1              
+28133085   F P VARSHAA RAO                                      184    002    041    086    087    417            PASS                      
+                                                                093 A1 071 C1 037 D2 062 B2 068 C1 092 B1       
+28133086   F SHIVASHETTY ADITHI                                 184    002    041    086    087    417            PASS                      
+                                                                093 A1 096 A1 092 A1 092 A1 094 A1 098 A1       
+28133087   M SOLLETI HEMANG RAJ                                 184    002    041    086    087    417            PASS                      
+                                                                086 A2 072 C1 045 D1 053 C1 077 B2 078 C2       
+28133088   M EDDU PREM SUNDER RAO                               184    002    041    086    087    417            PASS                      
+                                                                082 B1 054 D1 041 D1 051 C2 071 C1 085 C1       
+28133089   F ADIRAJU SRI RAMYA DEVI                             184    002    041    086    087    417            PASS                      
+                                                                079 B1 074 C1 068 B2 064 B2 075 B2 081 C2       
+28133090   F PEESARI MEGHANA REDDY                              184    002    041    086    087    417            PASS                      
+                                                                095 A1 095 A1 088 A2 087 A2 098 A1 099 A1       
+28133091   F HARSHIKA KULKARNI                                  184    002    041    086    087    417            PASS                      
+                                                                091 A1 090 A1 081 B1 079 B1 086 B1 095 A2       
+28133092   F KASAVAJJULA VISHVA TEJASHWINI                      184    002    041    086    087    417            PASS                      
+                                                                093 A1 092 A1 090 A2 091 A1 095 A1 098 A1       
+28133093   M N SHIVA KOUSHIK REDDY                              184    002    041    086    087    417            PASS                      
+                                                                068 C1 068 C2 058 C1 063 B2 086 B1 089 B2       
+28133094   F NEMMADI SAHASTRA                                   184    002    041    086    087    417            PASS                      
+                                                                071 C1 084 B1 060 C1 062 B2 066 C1 093 B1       
+
+28133095   F MUPPIDI HARSHINI                                   184    002    041    086    087    417            PASS                      
+                                                                085 A2 090 A1 050 C2 072 B1 089 A2 095 A2       
+28133096   F VARNIKA VISHAL DESHPANDE                           184    002    041    086    087    417            PASS                      
+                                                                092 A1 092 A1 082 B1 086 A2 097 A1 094 A2       
+28133097   F CHANAGONI RISHITHA                                 184    002    041    086    087    417            PASS                      
+                                                                085 A2 092 A1 091 A2 085 A2 091 A2 097 A1       
+28133098   M YADAGIRI PRALAV                                    184    002    041    086    087    417            PASS                      
+                                                                078 B1 083 B1 084 A2 089 A1 095 A1 100 A1       
+28133099   M MULUGURI RATHNAKAR                                 184    002    041    086    087    417            PASS                      
+                                                                072 B2 054 D1 055 C1 043 D1 071 C1 086 C1       
+28133100   F THARIGOPPULA JAWALITHA                             184    002    041    086    087    417            PASS                      
+                                                                087 A2 090 A1 095 A1 095 A1 095 A1 095 A2       
+28133101   F BATHOJU BHUHARINI                                  184    002    241    086    087    417            PASS                      
+                                                                069 C1 051 D2 060 B1 045 C2 071 C1 083 C1       
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       3
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133102   F NANDA DEVIKA SRI                                   184    002    241    086    087    417            PASS                      
+                                                                067 C1 062 D1 049 B2 041 D1 061 C2 084 C1       
+28133103   F ALWALA SAADHVI                                     184    002    241    086    087    417            PASS                      
+                                                                066 C1 055 D1 054 B1 041 D1 059 C2 074 D1       
+28133104   M KORADA NIRAJ KUMAR                                 184    002    041    086    087    417            PASS                      
+                                                                066 C1 065 C2 051 C2 055 C1 072 C1 082 C2       
+
+28133105   M GOLLA VISHNU SAI SARAT                             184    002    041    086    087    417            PASS                      
+                                                                071 C1 067 C2 044 D1 051 C2 066 C1 094 A2       
+28133106   M GOLLA VIJAYA KRISHNA DATTA                         184    002    041    086    087    417            PASS                      
+                                                                055 D1 065 C2 046 D1 044 D1 059 C2 083 C1       
+28133107   F YADDANA PUDI SEEBA                                 184    002    241    086    087    417            PASS                      
+                                                                054 D1 046 D2 038 D1 034 D2 050 D1 071 D1       
+28133108   M MEKALA PRANEETH REDDY                              184    002    041    086    087    417            PASS                      
+                                                                089 A1 086 A2 083 A2 091 A1 080 B2 100 A1       
+28133109   F K RUCHIKA                                          184    002    241    086    087    417            PASS                      
+                                                                048 D1 054 D1 043 C1 041 D1 061 C2 074 D1       
+28133110   F GUDA VENKATA LAXMI SAI TARINI                      184    002    241    086    087    417            PASS                      
+                                                                053 D1 050 D2 047 C1 035 D2 052 D1 077 D1       
+28133111   F S DHEEKSHA REDDY                                   184    002    041    086    087    417            PASS                      
+                                                                061 C2 065 C2 042 D1 040 D1 059 C2 076 D1       
+28133112   F JANAGAM AASHRITHA                                  184    002    041    086    087    417            PASS                      
+                                                                068 C1 077 B2 057 C1 054 C1 072 C1 088 B2       
+28133113   M B VISHRUTH REDDY                                   184    002    041    086    087    417            PASS                      
+                                                                064 C2 055 D1 042 D1 039 D1 075 B2 072 D1       
+28133114   M SAPAVAT BHARATH TEJ                                184    002    041    086    087    417            PASS                      
+                                                                089 A1 077 B2 088 A2 080 A2 083 B1 093 B1       
+
+28133115   M KOTA VISWESWARA NAG DASIKA                         184    002    041    086    087    417            PASS                      
+                                                                087 A2 083 B1 086 A2 078 B1 081 B1 099 A1       
+28133116   M KAKULAVARAM SHASHANK REDDY                         184    002    041    086    087    417            PASS                      
+                                                                064 C2 053 D2 055 C1 045 C2 075 B2 088 B2       
+28133117   M PENBALI RISHIK REDDY                               184    002    041    086    087    417            PASS                      
+                                                                075 B2 049 D2 068 B2 064 B2 071 C1 082 C2       
+28133118   M KOTTURU SOURISH                                    184    002    041    086    087    417            PASS                      
+                                                                084 A2 078 B2 070 B2 054 C1 068 C1 088 B2       
+28133119   F MATHANGI DHANUSREE                                 184    002    241    086    087    417            PASS                      
+                                                                072 B2 071 C1 053 B2 052 C2 089 A2 089 B2       
+28133120   M MOOD DHANVEER CHAVAN                               184    002    041    086    087    417            PASS                      
+                                                                088 A2 077 B2 065 B2 068 B2 088 A2 092 B1       
+28133121   M NENAVATH GOUTHAM SINGH RATHOD                      184    002    041    086    087    417            PASS                      
+                                                                083 B1 069 C2 065 B2 061 B2 067 C1 090 B2       
+28133122   M GURRAM HIMAVANTH REDDY                             184    002    041    086    087    417            PASS                      
+                                                                055 D1 059 D1 049 C2 048 C2 076 B2 079 C2       
+28133123   F BOLLAPRAGADA SAI HARSHITHA                         184    002    041    086    087    417            PASS                      
+                                                                082 B1 082 B1 081 B1 084 A2 080 B2 093 B1       
+28133124   M MOGIREDDY RISHIK REDDY                             184    002    041    086    087    417            PASS                      
+                                                                077 B2 057 D1 063 C1 046 C2 058 C2 085 C1       
+
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       4
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133125   F MAGANTI JAYA KAVYA SRI                             184    002    041    086    087    417            PASS                      
+                                                                088 A2 078 B2 054 C2 061 B2 081 B1 087 B2       
+28133126   M KEERTHI SREEVARSHITH                               184    002    041    086    087    417            PASS                      
+                                                                094 A1 078 B2 092 A1 075 B1 070 C1 092 B1       
+28133127   M V HEMANTH KUMAR                                    184    002    041    086    087    417            PASS                      
+                                                                090 A1 074 C1 068 B2 076 B1 086 B1 090 B2       
+28133128   F CHINTALA GAYATHRI                                  184    002    041    086    087    417            PASS                      
+                                                                089 A1 089 A2 095 A1 078 B1 088 A2 085 C1       
+28133129   F DESHAVENI DEVASHRI BANDAGI                         184    002    241    086    087    417            PASS                      
+                                                                090 A1 067 C2 088 A1 090 A1 059 C2 085 C1       
+28133130   M BANOTHU  DEVALA NAYAK                              184    002    041    086    087    417            PASS                      
+                                                                078 B1 058 D1 045 D1 037 D2 053 D1 079 C2       
+28133131   M RUDRANSH CHITTIRAJU                                184    002    041    086    087    417            PASS                      
+                                                                089 A1 081 B1 071 B2 062 B2 079 B2 089 B2       
+28133132   F MUSHYAM JAHNAVI NAIDU                              184    002    041    086    087    417            PASS                      
+                                                                094 A1 092 A1 082 B1 087 A2 084 B1 099 A1       
+28133133   M Y OJASTEJ REDDY                                    184    002    041    086    087    417            PASS                      
+                                                                096 A1 082 B1 090 A2 068 B2 088 A2 098 A1       
+28133134   M SOMA SAIHARSHITH                                   184    002    041    086    087    417            PASS                      
+                                                                070 C1 070 C1 052 C2 058 C1 070 C1 084 C1       
+
+28133135   M ASHWANI KUMAR                                      184    002    041    086    087    417            PASS                      
+                                                                085 A2 073 C1 095 A1 073 B1 064 C2 083 C1       
+28133136   M AKUTHOTA VARUN TEJ                                 184    002    041    086    087    417            PASS                      
+                                                                084 A2 059 D1 056 C1 059 C1 083 B1 095 A2       
+28133137   M CHENNAM VIVEK                                      184    002    041    086    087    417            PASS                      
+                                                                089 A1 071 C1 083 A2 080 A2 090 A2 100 A1       
+28133138   F BACHU TANUSHRI                                     184    122    041    086    087    417            PASS                      
+                                                                081 B1 070 B2 044 D1 044 D1 052 D1 083 C1       
+28133139   M FULPATI SHREYESH                                   184    122    041    086    087    417            PASS                      
+                                                                092 A1 093 A1 076 B1 086 A2 086 B1 100 A1       
+28133140   M THATIPARTHI   DEVARUSHI REDDY                      184    122    041    086    087    417            PASS                      
+                                                                052 D1 052 D1 045 D1 060 C1 080 B2 087 B2       
+28133141   F GOWRI R NAIR                                       184    122    041    086    087    417            PASS                      
+                                                                086 A2 091 A2 069 B2 082 A2 076 B2 097 A1       
+28133142   F KASTI  TANISHKA                                    184    122    041    086    087    417            PASS                      
+                                                                079 B1 072 B2 047 C2 049 C2 065 C2 090 B2       
+28133143   F BANOTH  SAI SINDHURA                               184    122    041    086    087    417            PASS                      
+                                                                076 B2 077 B1 058 C1 075 B1 083 B1 088 B2       
+28133144   M PALLA   SATHWIK                                    184    122    041    086    087    417            PASS                      
+                                                                076 B2 064 C1 065 B2 056 C1 055 D1 088 B2       
+
+28133145   M PITTALA EASHAAN                                    184    122    041    086    087    417            PASS                      
+                                                                071 C1 070 B2 040 D1 042 D1 056 D1 086 C1       
+28133146   M ARRA KETHAN                                        184    122    041    086    087    417            PASS                      
+                                                                069 C1 060 C2 042 D1 052 C2 077 B2 086 C1       
+28133147   M ACHAGONI  RITVIK SAI GOUD                          184    122    041    086    087    417            PASS                      
+                                                                060 C2 057 C2 049 C2 052 C2 055 D1 077 D1       
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       5
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133148   F AVATAPALLY  SRAVANI SUSMITA                        184    122    041    086    087    417            PASS                      
+                                                                089 A1 070 B2 055 C1 059 C1 085 B1 098 A1       
+28133149   M CHINTHAKUNTLA  SAI KRISHNA                         184    122    041    086    087    417            PASS                      
+                                                                066 C1 048 D2 043 D1 040 D1 074 B2 080 C2       
+28133150   M AKURATHI  HITESH                                   184    122    041    086    087    417            PASS                      
+                                                                079 B1 075 B1 077 B1 073 B1 093 A1 092 B1       
+28133151   F SHAIK FIZA MOHAMMAD                                184    122    041    086    087    417            PASS                      
+                                                                086 A2 079 B1 046 D1 063 B2 085 B1 093 B1       
+28133152   F PAGADALA MANISHA                                   184    122    041    417    087    086            PASS                      
+                                                                064 C2 047 D2 042 D1 078 C2 067 C1 028 E        
+28133153   F PAGIREDDY KOVIDHA                                  184    122    041    086    087    417            PASS                      
+                                                                088 A2 067 C1 044 D1 046 C2 069 C1 080 C2       
+28133154   M SAMMETA NIKHIL                                     184    122    041    086    087    417            PASS                      
+                                                                097 A1 080 B1 080 B1 086 A2 095 A1 094 A2       
+
+28133155   M SIDDHANTH NAWATHE                                  184    122    041    086    087    417            PASS                      
+                                                                081 B1 084 A2 060 C1 083 A2 085 B1 089 B2       
+28133156   F MANUPATI  SRI HARSHITHA                            184    122    041    086    087    417            PASS                      
+                                                                093 A1 086 A2 070 B2 071 B1 081 B1 090 B2       
+28133157   F BANDARU SRI SAI NIDHI                              184    122    041    086    087    417            PASS                      
+                                                                090 A1 084 A2 063 C1 061 B2 074 B2 095 A2       
+28133158   F PATKARI NITHYA SRI                                 184    122    041    086    087    417            PASS                      
+                                                                082 B1 096 A1 076 B1 089 A1 095 A1 097 A1       
+28133159   F MARUPAKA SRIDIVYA                                  184    122    041    086    087    417            PASS                      
+                                                                081 B1 069 B2 061 C1 060 C1 079 B2 093 B1       
+28133160   F AKKINEPALLI SHREYA                                 184    122    041    086    087    417            PASS                      
+                                                                080 B1 056 D1 045 D1 045 C2 059 C2 076 D1       
+28133161   F SAI DARSHA                                         184    122    041    086    087    417            PASS                      
+                                                                061 C2 058 C2 070 B2 055 C1 046 D2 084 C1       
+28133162   M GUNDAM VEEREN                                      184    122    041    086    087    417            PASS                      
+                                                                084 A2 067 C1 072 B2 055 C1 084 B1 092 B1       
+28133163   F LAXIME                                             184    122    041    086    087    417            PASS                      
+                                                                067 C1 062 C2 045 D1 037 D2 048 D2 081 C2       
+28133164   F TAMMINENI SAI SHRUTHA KEERTHI                      184    122    041    086    087    417            PASS                      
+                                                                079 B1 077 B1 074 B1 080 A2 076 B2 094 A2       
+
+28133165   M MADIPEDDI LOKESH CHARAN                            184    122    041    086    087    417            PASS                      
+                                                                082 B1 080 B1 079 B1 082 A2 092 A2 099 A1       
+28133166   F BOGARAJU GUNAITHA LAXMI PRIYA                      184    122    041    086    087    417            PASS                      
+                                                                079 B1 075 B1 053 C2 070 B2 081 B1 096 A2       
+28133167   F LAKKARSU SHLOKA                                    184    122    041    086    087    417            PASS                      
+                                                                075 B2 095 A1 085 A2 091 A1 087 A2 098 A1       
+28133168   M VIPUL KUMAR VAITLA                                 184    122    041    086    087    417            PASS                      
+                                                                096 A1 099 A1 097 A1 093 A1 098 A1 098 A1       
+28133169   M GAJJALA TARAN                                      184    122    041    086    087    417            PASS                      
+                                                                056 D1 054 D1 047 C2 052 C2 053 D1 073 D1       
+28133170   M KURAKULA  SUMANTH                                  184    122    041    086    087    417            PASS                      
+                                                                064 C2 047 D2 078 B1 056 C1 060 C2 087 B2       
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       6
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133171   M ABHIRAJ REDISHETTY                                 184    122    041    086    087    417            PASS                      
+                                                                085 A2 090 A2 093 A1 089 A1 071 C1 100 A1       
+28133172   F YERRA KARTHIKA                                     184    122    041    086    087    417            PASS                      
+                                                                068 C1 048 D2 043 D1 040 D1 053 D1 073 D1       
+28133173   F BOJJA GEETHIKA                                     184    122    041    086    087    417            PASS                      
+                                                                047 D2 059 C2 042 D1 046 C2 068 C1 082 C2       
+28133174   M AKHILESH UMANG  RAO GANGADARI                      184    122    041    086    087    417            PASS                      
+                                                                067 C1 050 D2 042 D1 048 C2 065 C2 085 C1       
+
+28133175   M PAKKI BADRI NIVAS                                  184    122    041    086    087    417            PASS                      
+                                                                076 B2 075 B1 073 B1 071 B1 065 C2 082 C2       
+28133176   M MUSTYALA YASHWANTH                                 184    122    041    086    087    417            PASS                      
+                                                                081 B1 092 A2 075 B1 088 A2 085 B1 100 A1       
+28133177   F SNEHA                                              184    122    041    086    087    417            PASS                      
+                                                                076 B2 055 D1 047 C2 050 C2 054 D1 076 D1       
+28133178   F PITTALA ANUSREE                                    184    122    041    086    087    417            PASS                      
+                                                                061 C2 047 D2 041 D1 038 D2 056 D1 082 C2       
+28133179   M ADUPA YASHAS                                       184    122    041    086    087    417            PASS                      
+                                                                065 C2 060 C2 074 B1 063 B2 067 C1 085 C1       
+28133180   M MALOTH HARSHAVARDHAN NAIK                          184    122    041    086    087    417            PASS                      
+                                                                081 B1 064 C1 054 C2 052 C2 056 D1 089 B2       
+28133181   M PATANJALI PURANIK                                  184    122    041    086    087    417            PASS                      
+                                                                078 B1 099 A1 091 A2 090 A1 093 A1 096 A2       
+28133182   F DUDA MADHU MITHA                                   184    122    041    086    087    417            PASS                      
+                                                                068 C1 070 B2 045 D1 064 B2 073 B2 097 A1       
+28133183   F DUDA MANASWINI                                     184    122    041    086    087    417            PASS                      
+                                                                080 B1 071 B2 057 C1 072 B1 071 C1 092 B1       
+28133184   F GUNDALA ASINI                                      184    122    041    086    087    417            PASS                      
+                                                                069 C1 061 C2 055 C1 041 D1 057 C2 079 C2       
+
+28133185   M SANGATI PRASHANTH                                  184    122    041    417    087    086            PASS                      
+                                                                054 D1 060 C2 040 D1 073 D1 040 D2 029 E        
+28133186   M PUTTUR CHARAN TEJA                                 184    122    041    086    087    417            PASS                      
+                                                                058 C2 065 C1 043 D1 051 C2 067 C1 085 C1       
+28133187   M KOTHA VARUN REDDY                                  184    122    041    086    087    417            PASS                      
+                                                                092 A1 098 A1 093 A1 081 A2 094 A1 097 A1       
+28133188   F KUNCHALA TEJASWINI                                 184    122    041    086    087    417            PASS                      
+                                                                063 C2 074 B1 043 D1 045 C2 042 D2 087 B2       
+28133189   F GORIGE PRAFULITHA                                  184    122    041    086    087    417            PASS                      
+                                                                093 A1 098 A1 095 A1 089 A1 096 A1 098 A1       
+28133190   F BIJILI JAYA LAKSHMI                                184    122    041    086    087    417            PASS                      
+                                                                072 B2 081 B1 071 B2 055 C1 063 C2 091 B1       
+28133191   F SATHELI VAISHNAVI                                  184    122    041    086    087    417            PASS                      
+                                                                068 C1 083 A2 049 C2 041 D1 077 B2 094 A2       
+28133192   F HASINI BAYYANI                                     184    122    041    086    087    417            PASS                      
+                                                                083 B1 081 B1 060 C1 059 C1 072 C1 090 B2       
+28133193   F SABBI AIHIKA                                       184    122    041    086    087    417            PASS                      
+                                                                069 C1 064 C1 045 D1 046 C2 045 D2 075 D1       
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       7
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133194   F PASUMARTHI HARI HARA BRAHMINI                      184    122    241    086    087    417            PASS                      
+                                                                071 C1 098 A1 058 B1 063 B2 079 B2 099 A1       
+
+28133195   F KETHAVATH DEEKSHITHA                               184    122    041    086    087    417            PASS                      
+                                                                068 C1 071 B2 042 D1 051 C2 067 C1 088 B2       
+28133196   M C VISHWA TEJA                                      184    122    041    086    087    417            PASS                      
+                                                                073 B2 076 B1 080 B1 061 B2 057 C2 080 C2       
+28133197   M K NIKHIL CHANDRA                                   184    122    041    086    087    417            PASS                      
+                                                                048 D1 052 D1 043 D1 033 D2 044 D2 076 D1       
+28133198   M AMASH ROHITH KRISHNA                               184    122    041    086    087    417            PASS                      
+                                                                069 C1 078 B1 045 D1 048 C2 060 C2 085 C1       
+28133199   M NAKKA SAI SHASHANK                                 184    122    041    086    087    417            PASS                      
+                                                                050 D1 057 C2 045 D1 043 D1 064 C2 083 C1       
+28133200   F UJWALA THONTA                                      184    122    041    086    087    417            PASS                      
+                                                                083 B1 089 A2 063 C1 066 B2 067 C1 095 A2       
+28133201   F THONTA USHA SRI                                    184    122    041    086    087    417            PASS                      
+                                                                092 A1 092 A2 072 B2 065 B2 086 B1 093 B1       
+28133202   F JAKKULA ALAK NANDA                                 184    122    041    086    087    417            PASS                      
+                                                                062 C2 066 C1 046 D1 041 D1 042 D2 080 C2       
+28133203   F BORRA LAKSHMI KEERTHANA                            184    122    041    086    087    417            PASS                      
+                                                                073 B2 084 A2 062 C1 064 B2 074 B2 096 A2       
+28133204   M KURADI SAI CHARAN                                  184    122    041    086    087    417            PASS                      
+                                                                069 C1 065 C1 041 D1 050 C2 070 C1 075 D1       
+
+28133205   M A RITHWIK                                          184    122    041    086    087    417            PASS                      
+                                                                062 C2 059 C2 052 C2 041 D1 046 D2 078 C2       
+28133206   F M LASYA PRIYA                                      184    122    241    086    087    417            PASS                      
+                                                                073 B2 080 B1 058 B1 047 C2 070 C1 092 B1       
+28133207   F BALUSANI VAISHNAVI                                 184    122    041    086    087    417            PASS                      
+                                                                081 B1 077 B1 057 C1 059 C1 078 B2 091 B1       
+28133208   F GADDAM SEJAL                                       184    122    041    086    087    417            PASS                      
+                                                                064 C2 049 D2 040 D1 043 D1 049 D1 074 D1       
+28133209   F VANGURI VARUDHINI                                  184    122    241    086    087    417            PASS                      
+                                                                043 D2 048 D2 044 C1 035 D2 039 D2 073 D1       
+28133210   F NARAGONI SRINITHYA                                 184    122    241    086    087    417            PASS                      
+                                                                082 B1 076 B1 069 A2 045 C2 067 C1 092 B1       
+28133211   M KARYAMAPUDI RAMKOWSHIK SIDDHU                      184    122    041    086    087    417            PASS                      
+                                                                083 B1 094 A1 088 A2 075 B1 091 A2 100 A1       
+28133212   M GUNDA VENKATA SAI RAMA CHARAN                      184    122    041    086    087    417            PASS                      
+                                                                062 C2 056 D1 050 C2 048 C2 065 C2 084 C1       
+28133213   M MEESALA RAKESH                                     184    122    041    086    087    417            PASS                      
+                                                                079 B1 053 D1 059 C1 047 C2 062 C2 087 B2       
+28133214   M BONAKURTHI JASHWANTH                               184    122    041    086    087    417            PASS                      
+                                                                066 C1 061 C2 052 C2 057 C1 067 C1 081 C2       
+
+28133215   F SRIPATHI VARSHINI                                  184    122    041    086    087    417            PASS                      
+                                                                089 A1 092 A2 056 C1 077 B1 084 B1 099 A1       
+28133216   M YEDLA BHANU TEJA                                   184    122    041    086    087    417            PASS                      
+                                                                063 C2 057 C2 047 C2 052 C2 053 D1 087 B2       
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       8
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133217   M BODA ABHINAV                                       184    122    041    086    087    417            PASS                      
+                                                                088 A2 083 A2 080 B1 065 B2 082 B1 097 A1       
+28133218   F RAMARAJU HASINI MANOGNA                            184    122    041    086    087    417            PASS                      
+                                                                075 B2 076 B1 050 C2 054 C1 057 C2 093 B1       
+28133219   M THAKUR PRACHET SINGH                               184    122    041    086    087    417            PASS                      
+                                                                081 B1 061 C2 045 D1 045 C2 067 C1 079 C2       
+28133220   F GUNTHA HANSHITHA                                   184    122    041    086    087    417            PASS                      
+                                                                075 B2 090 A2 048 C2 061 B2 079 B2 100 A1       
+28133221   M JAIVANTH KATRAGADDA                                184    122    041    086    087    417            PASS                      
+                                                                072 B2 084 A2 069 B2 058 C1 051 D1 085 C1       
+28133222   M CH DHORIT SAI VARDHAN                              184    122    041    086    087    417            PASS                      
+                                                                071 C1 064 C1 065 B2 064 B2 069 C1 078 C2       
+28133223   M KURAPATI VIGHNESH RAMNATH                          184    122    041    086    087    417            PASS                      
+                                                                086 A2 062 C2 066 B2 075 B1 090 A2 095 A2       
+28133224   M SAKET SANDIP UDAWANT                               184    122    041    086    087    417            PASS                      
+                                                                063 C2 090 A2 055 C1 049 C2 068 C1 084 C1       
+
+28133225   F SRIVANDANA SANKENDLA                               184    122    041    086    087    417            PASS                      
+                                                                077 B2 061 C2 045 D1 037 D2 062 C2 085 C1       
+28133226   M GUJJARLAPUDI SOHAN SAI                             184    122    041    086    087    417            PASS                      
+                                                                060 C2 050 D2 042 D1 049 C2 054 D1 083 C1       
+28133227   F REPAKA SNIGDHA                                     184    122    041    086    087    417            PASS                      
+                                                                074 B2 058 C2 053 C2 046 C2 040 D2 077 D1       
+28133228   M POKALI MOHIT RANGA                                 184    122    041    086    087    417            PASS                      
+                                                                084 A2 093 A1 094 A1 083 A2 089 A2 089 B2       
+28133229   M ADURY PARJANYA                                     184    122    241    086    087    417            PASS                      
+                                                                085 A2 086 A2 087 A1 072 B1 081 B1 100 A1       
+28133230   M VANTHARAM JAIWANTH KUMAR                           184    122    041    086    087    417            PASS                      
+                                                                089 A1 077 B1 074 B1 083 A2 072 C1 093 B1       
+28133231   M MUSCU PREETHAM REDDY                               184    122    041    086    087    417            PASS                      
+                                                                085 A2 075 B1 062 C1 069 B2 088 A2 090 B2       
+28133232   F PATTA POOJITHA                                     184    122    041    086    087    417            PASS                      
+                                                                083 B1 083 A2 084 A2 071 B1 085 B1 095 A2       
+28133233   F ALLAM VISHNUPRIYA                                  184    122    041    086    087    417            PASS                      
+                                                                064 C2 062 C2 049 C2 053 C1 054 D1 088 B2       
+28133234   M CHAVARTHI UMAMAHESHWAR                             184    122    041    086    087    417            PASS                      
+                                                                078 B1 076 B1 072 B2 071 B1 083 B1 095 A2       
+
+28133235   F REGALLA SAHASRA                                    184    122    041    086    087    417            PASS                      
+                                                                087 A2 078 B1 064 B2 076 B1 075 B2 094 A2       
+28133236   M ARNAV BHIDE                                        184    122    041    086    087    417            PASS                      
+                                                                078 B1 079 B1 052 C2 057 C1 078 B2 093 B1       
+28133237   F MAGANTI TEJASVI                                    184    122    041    086    087    417            PASS                      
+                                                                075 B2 065 C1 057 C1 054 C1 068 C1 091 B1       
+28133238   F JALIGAM SANJHANA                                   184    122    041    086    087    417            PASS                      
+                                                                087 A2 086 A2 066 B2 065 B2 071 C1 094 A2       
+28133239   F PITLA SRISHA                                       184    122    041    086    087    417            PASS                      
+                                                                080 B1 090 A2 078 B1 078 B1 078 B2 093 B1       
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-       9
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133240   F SHATAMONI SHARANYA                                 184    122    041    086    087    417            PASS                      
+                                                                076 B2 088 A2 079 B1 077 B1 079 B2 096 A2       
+28133241   F JONNALAGADDA LAKSHMI SAI MYTHILI                   184    122    041    086    087    417            PASS                      
+                                                                063 C2 074 B1 041 D1 051 C2 055 D1 082 C2       
+28133242   F YALLA LAKSHMI DEVI                                 184    122    041    086    087    417            PASS                      
+                                                                067 C1 080 B1 045 D1 063 B2 058 C2 090 B2       
+28133243   M GUNDE RAKESH                                       184    122    041    086    087    417            PASS                      
+                                                                066 C1 051 D1 054 C2 045 C2 058 C2 083 C1       
+28133244   F GURRAM TANISHKA                                    184    122    041    086    087    417            PASS                      
+                                                                087 A2 082 A2 067 B2 068 B2 077 B2 092 B1       
+
+28133245   F M TRIVEDA                                          184    122    041    086    087    417            PASS                      
+                                                                073 B2 080 B1 052 C2 050 C2 069 C1 082 C2       
+28133246   F VULPALA KARUNYA                                    184    122    041    086    087    417            PASS                      
+                                                                068 C1 080 B1 070 B2 068 B2 070 C1 089 B2       
+28133247   F P VENKATA SHANMUKHA PRIYA                          184    122    041    086    087    417            PASS                      
+                                                                089 A1 079 B1 053 C2 062 B2 084 B1 094 A2       
+28133248   F GURRAMKONDA POOJA                                  184    122    041    086    087    417            PASS                      
+                                                                085 A2 094 A1 066 B2 068 B2 069 C1 098 A1       
+28133249   F RESU BHANVITHA                                     184    122    041    086    087    417            PASS                      
+                                                                083 B1 090 A2 081 B1 074 B1 081 B1 094 A2       
+28133250   M NIRUGONDA  AKSHAY                                  184    122    241    086    087    417            PASS                      
+                                                                062 C2 051 D1 042 C2 040 D1 053 D1 078 C2       
+28133251   M JANGAM NAGA SUDHANVA                               184    122    041    086    087    417            PASS                      
+                                                                069 C1 066 C1 059 C1 050 C2 053 D1 082 C2       
+28133252   F GOPARAJU VISWITHA                                  184    122    041    086    087    417            PASS                      
+                                                                060 C2 063 C1 047 C2 039 D1 052 D1 073 D1       
+28133253   M ABHISHEK WALAJAH VENKATARAGAVAN                    184    122    041    086    087    417            PASS                      
+                                                                082 B1 089 A2 085 A2 080 A2 094 A1 097 A1       
+28133254   M PASUPULETI UDAY NAGA KARTHIK                       184    122    041    086    087    417            PASS                      
+                                                                090 A1 084 A2 082 B1 097 A1 090 A2 096 A2       
+
+28133255   M PUCHAKAYALA  ANURAG                                184    122    041    086    087    417            PASS                      
+                                                                086 A2 076 B1 077 B1 073 B1 075 B2 095 A2       
+28133256   M P SAI LOCHAN REDDY                                 184    122    241    086    087    417            PASS                      
+                                                                064 C2 060 C2 068 A2 060 C1 061 C2 096 A2       
+28133257   F NAGAM AKSHAYA                                      184    122    041    086    087    417            PASS                      
+                                                                078 B1 065 C1 060 C1 051 C2 061 C2 094 A2       
+28133258   F M JASHMITHA                                        184    122    041    086    087    417            PASS                      
+                                                                084 A2 084 A2 051 C2 057 C1 078 B2 095 A2       
+28133259   F AMURAM BHAVANA                                     184    122    041    086    087    417            PASS                      
+                                                                062 C2 072 B2 050 C2 038 D2 059 C2 090 B2       
+28133260   F KASA SAI SHLOKA                                    184    122    041    086    087    417            PASS                      
+                                                                066 C1 079 B1 069 B2 065 B2 067 C1 095 A2       
+28133261   M G R S KARTHIKEYA SUDHANVI                          184    122    041    086    087    417            PASS                      
+                                                                084 A2 089 A2 052 C2 068 B2 089 A2 098 A1       
+28133262   M VUPPULA ABHISHEK  HENRY GRAHAM                     184    122    041    086    087    417            PASS                      
+                                                                079 B1 088 A2 081 B1 073 B1 090 A2 100 A1       
+
+DATE:- 13-05-2024    C.B.S.E. - ALL INDIA SECONDARY SCHOOL EXAMINATION (MAIN)-2024      REGION: VIJAYAWADA         PAGE:-      10
+                                                ***** (SCHOOL / ROLL NO WISE GAZETTE) *****
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+ROLL    F S NAME OF CANDIDATE                                   -----------------SUBJECTS-----------------------  RESULT            COMP
+NO      L X                                                     SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD SUB CD                    SUB
+                                                                MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR MKS GR
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SCHOOL : - 59505   PM SHRI KENDRIYA VIDYALAYA NO.1 UPPAL HYDERABAD TL          
+
+28133263   M YELLAPANTULA VENKATA  SAKETHA SREERAM              184    122    041    086    087    417            PASS                      
+                                                                091 A1 091 A2 089 A2 086 A2 089 A2 097 A1       
+28133264   M SUKKA PAVAN BHARGAV                                184    122    041    086    087    417            PASS                      
+                                                                083 B1 070 B2 038 D2 052 C2 073 B2 083 C1       
+
+28133265   F YAMMANURU VENKATA DHRITHI                          184    122    041    086    087    417            PASS                      
+                                                                084 A2 098 A1 080 B1 081 A2 091 A2 100 A1       
+28133266   F CHILLAPURAM  RISHITHA                              184    122    041    086    087    417            PASS                      
+                                                                074 B2 063 C1 041 D1 041 D1 047 D2 079 C2       
+28133267   F SAMUDRALA SARVAGHNA                                184    122    041    086    087    417            PASS                      
+                                                                084 A2 097 A1 067 B2 071 B1 091 A2 100 A1       
 
 
-TOTAL CANDIDATES :    41 TOTAL PASS :    41 TOTAL COMPTT. :     0 TOTAL ESSENTIAL REPEAT :     0 TOTAL ABSENT :     0
+TOTAL CANDIDATES :   212 TOTAL PASS :   212 TOTAL COMPTT. :     0 TOTAL ESSENTIAL REPEAT :     0 TOTAL ABSENT :     0
